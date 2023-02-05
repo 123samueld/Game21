@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\21.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\21.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\21.AssemblyInfo.cs
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\21.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\21\21\bin\Debug\net7.0\21.exe
+C:\Users\User\source\repos\21\21\bin\Debug\net7.0\21.deps.json
+C:\Users\User\source\repos\21\21\bin\Debug\net7.0\21.runtimeconfig.json
+C:\Users\User\source\repos\21\21\bin\Debug\net7.0\21.dll
+C:\Users\User\source\repos\21\21\bin\Debug\net7.0\21.pdb
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\21.dll
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\refint\21.dll
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\21.pdb
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\21.genruntimeconfig.cache
+C:\Users\User\source\repos\21\21\obj\Debug\net7.0\ref\21.dll
